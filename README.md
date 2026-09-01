@@ -13,6 +13,12 @@ O principal objetivo do projeto é aplicar conceitos de HTML5 e CSS3 para criar 
 * **HTML5**
 * **CSS3**
 
+## 🛠️ Ferramentas utilizadas
+
+* **Visual Studio Code**
+* **Git**
+* **GitHub**
+
 ## 📚 Conceitos praticados
 
 Durante o desenvolvimento do projeto, foram praticados conceitos como:
